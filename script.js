@@ -8,8 +8,8 @@ const CONFIG = {
   finalMessage:
     "انتَ حبي الاول والاخير " +
     " you are my fist and last love" +
-    "" +
-    "" ,
+    "Dear Thanks for the sentiment good people have always good intention " +
+    "LOVE TOO like you the best ever I always remember you 💋" ,
 
   pages: [
     {
